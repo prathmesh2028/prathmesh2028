@@ -29,6 +29,8 @@ https://medium.com/@badheprathmesh2028
 Discord 
 http://discordapp.com/users/1330941193437052940
 
+Telegram 
+https://t.me/prathmeshb2
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ❌ 
 
