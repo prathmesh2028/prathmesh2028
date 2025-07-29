@@ -5,7 +5,7 @@
 - 
 - Instagram https://www.instagram.com/badheprathmesh2006?igsh=ZjJrYm8xejRrcHQ3
 - 
-- Twitter https://x.com/Mr_phb9309?t=MXgKFaeErUp_HJXQCRjFtQ&s=09
+- Twitter https://x.com/prathmesh2028?t=MoEujmfKS4Max4-60zKrug&s=09
 
 - Linkedin https://www.linkedin.com/in/prathmeshbadhe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
