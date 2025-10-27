@@ -20,6 +20,8 @@
 -
 - Telegram https://t.me/prathmeshb2
 
+- Facebook https://www.facebook.com/profile.php?id=61582867053681
+
 
 
 ```Currently I am persuing Bachelor's degree in Information Technology ```
