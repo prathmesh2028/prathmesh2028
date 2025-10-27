@@ -12,15 +12,15 @@
 - 
 - E mail badheprathmesh2028@gmail.com
 -
--Reddit https://www.reddit.com/u/prathmesh2028/s/C2D9xEoveo
+- Reddit https://www.reddit.com/u/prathmesh2028/s/C2D9xEoveo
 -
--Medium https://medium.com/@badheprathmesh2028
+- Medium https://medium.com/@badheprathmesh2028
 -
--Discord http://discordapp.com/users/1330941193437052940
+- Discord http://discordapp.com/users/1330941193437052940
 -
--Telegram https://t.me/prathmeshb2
+- Telegram https://t.me/prathmeshb2
 
 
 
-# Currently I am persuing Bachelor's degree in Information Technology 
-From Sinhagad College of engineering Pune Maharashtra 
+```Currently I am persuing Bachelor's degree in Information Technology ```
+```From Sinhagad College of engineering Pune Maharashtra ```
