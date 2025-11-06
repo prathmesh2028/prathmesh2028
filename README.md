@@ -5,7 +5,7 @@
 
 - 📝 I also write articles on [https://medium.com/@badheprathmesh2028](https://medium.com/@badheprathmesh2028)
 
-- 📫 How to reach me **badheprathmesh2@gmail.com** or **badheprathmesh2028@gmail.com**
+- 📫 How to reach me **badheprathmesh2028@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
