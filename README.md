@@ -5,13 +5,12 @@
 
 - 📝 Also currently learning DSA in Java 🔥 
 
-- 📫 How to reach me **badheprathmesh2028@gmail.com**
+- 📫 How to reach me **badheprathmesh2028@gmail.com** or **badheprathmesh2@gmail.com**
 
--  another **badheprathmesh2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prathmesh2028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathmesh2028" height="30" width="40" /></a>
+<a href="https://x.com/prathmesh2028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathmesh2028" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathmeshbadhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmeshbadhe" height="30" width="40" /></a>
 <a href="https://instagram.com/badheprathmesh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badheprathmesh2006" height="30" width="40" /></a>
 <a href="https://medium.com/prathmesh2028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prathmesh2028" height="30" width="40" /></a>
