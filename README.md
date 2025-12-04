@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm PRATHMESH HANUMANT BADHE</h1>
+<h1 align="center">Hi 👋, I'm PRATHMESH  BADHE</h1>
 <h3 align="center">A passionate full stack (MERN) developer from Pune, Maharashtra</h3>
 
 - 🔭 I’m currently persuing Bachlor's Degree from [Sinhgad College of Engineering , Pune](in Information Technology)
 
-- 📝 I also write articles on [https://medium.com/@badheprathmesh2028](https://medium.com/@badheprathmesh2028)
+- 📝 Also currently learning DSA in Java 🔥 
 
 - 📫 How to reach me **badheprathmesh2028@gmail.com**
+
+-  another **badheprathmesh2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
