@@ -5,7 +5,7 @@
 
 - 📝 Currently learning DSA and JAVA (core + adv)
 
-- 📫 How to reach me **badheprathmesh2@gmail.com** or **badheprathmesh2@gmail.com**
+- 📫 How to reach me **badheprathmesh2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
