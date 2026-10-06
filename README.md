@@ -3,7 +3,15 @@
 
 - 🔭 I’m currently persuing Bachlor's Degree from [Sinhgad College of Engineering , Pune](in Information Technology)
 
-- 📝 Currently learning DSA and JAVA (core + adv)
+- 📝 Currently learning DSA and JAVA (core + adv) and stepping into cloud
+
+  Hi, I'm Prathamesh, an Information Technology engineering student who enjoys learning how technology works and turning what I learn into something useful.
+
+I'm particularly interested in software development, problem-solving, artificial intelligence, and understanding the systems that run behind the applications we use every day. I like exploring new technologies, experimenting with different ideas, and improving my understanding through hands-on practice.
+
+I'm still learning and figuring things out, but I believe in building a strong foundation rather than just chasing every new technology. For me, coding is not just about writing programs — it's about understanding the problem, finding a practical solution, and continuously getting better at it.
+
+Currently, I'm focused on strengthening my fundamentals, improving my development skills, and exploring the possibilities of AI and modern software engineering.
 
 - 📫 How to reach me **badheprathmesh2@gmail.com**
 
